@@ -1,0 +1,13 @@
+/* size: 4in 6in; */
+
+.header {
+    position: relative;
+    left: 40%;
+ }
+ mat-form-field {
+    width: 100%;
+}
+.radio-margin, .checkbox-margin {
+    margin: 0 10px;
+} 
+
